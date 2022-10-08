@@ -1,7 +1,10 @@
 # hw2
 
 (1)
+
 ![PERT](PERT_hw2.png)
+
+[source](https://hackmd.io/Z7gUzUCSQTW2AJh3RFRPow?view)
 
 (2)
 ```mermaid
