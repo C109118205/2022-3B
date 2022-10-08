@@ -1,8 +1,7 @@
 # hw2
 
 (1)
-![PERT](PERT_new.png)<br>
-[Source](https://hackmd.io/@RXiau6/H1RnaZyms)
+
 
 (2)
 ```mermaid
